@@ -16,6 +16,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: space-between;
+    gap: 100px;
 }
 span {
     color: #f86605;
@@ -30,9 +31,9 @@ span {
     flex-direction: row;
     align-items: center;
     justify-content: center;
-    margin-left: 100px;
+    margin-left: 150px;
     font-size: 30px;
-    font-weight: 600;
+    font-weight: 100;
     font-family: 'Roboto', sans-serif;
 }
 .logo img {
@@ -1004,9 +1005,9 @@ table tr td{
 
     .logo{
         margin-left: 10px;
-        width: fit-content;
-        height: 15px;
-
+        width: 15px;
+        height: 10px;
+        font-size: 10px;
     }
     .logo img {
         width: fit-content;
