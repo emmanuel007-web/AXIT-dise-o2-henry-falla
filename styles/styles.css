@@ -24,12 +24,16 @@ span {
 .logo{
     width: fit-content;
     background-color: #000000;
+    color: white;
     height: 60px;
     display: flex;
     flex-direction: row;
     align-items: center;
     justify-content: center;
     margin-left: 100px;
+    font-size: 30px;
+    font-weight: 600;
+    font-family: 'Roboto', sans-serif;
 }
 .logo img {
     width: 100px;
